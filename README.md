@@ -19,7 +19,7 @@ This project was created for the sole purpose of learning and experimenting with
 - **Profile Management:** Once logged in, users can view and manage their profiles.
 
 ### 3. Product Management
-- **CRUD Operations:** Users can perform Create, Read, Update, and Delete operations on products.
+- **CRUD Operations:** Administrators can perform Create, Read, Update, and Delete operations on products.
 - **Image Upload:** Products can be associated with multiple images, allowing for a detailed presentation.
 
 ## Purpose of the Project
